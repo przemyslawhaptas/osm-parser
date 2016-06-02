@@ -9,7 +9,7 @@ tokens {
     ATTRIBUTE;
 }
 
-document : declaration! element^ ;
+document : (declaration!)? element^ ;
 
 element
     : ( startTag^ (element | PCDATA )* endTag!

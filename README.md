@@ -3,4 +3,4 @@
 3. java org.antlr.Tool OSMParser.g
 4. java org.antlr.Tool OSMTreeParser.g
 5. javac *.java
-6. java Main test-file.osm
+6. java Main osm/test-file.osm
