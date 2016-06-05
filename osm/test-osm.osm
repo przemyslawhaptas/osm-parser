@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.4.0 (21244 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="50.0769700" minlon="19.9203200" maxlat="50.0775200" maxlon="19.9210900"/>
+ <node id="226829295" visible="true" version="12" changeset="736473" timestamp="2009-03-04T13:49:43Z" user="pober" uid="59139" lat="50.0782568" lon="19.9179443"/>
+ <node id="284608991" visible="true" version="2" changeset="130065" timestamp="2009-02-04T20:46:06Z" user="Rafal Olearski" uid="12349" lat="50.0772475" lon="19.9206199"/>
+ <way id="233356923" visible="true" version="2" changeset="17499486" timestamp="2013-08-25T13:33:03Z" user="kutomba_mfumo" uid="1206735">
+  <nd ref="2417504241"/>
+  <nd ref="2417504237"/>
+  <tag k="addr:city" v="Kraków"/>
+ </way>
+</osm>
